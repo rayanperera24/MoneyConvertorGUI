@@ -1,0 +1,16 @@
+C:\Users\Rayan\Desktop\practice systems\money convertor\bin\Debug\net6.0-windows\money convertor.exe
+C:\Users\Rayan\Desktop\practice systems\money convertor\bin\Debug\net6.0-windows\money convertor.deps.json
+C:\Users\Rayan\Desktop\practice systems\money convertor\bin\Debug\net6.0-windows\money convertor.runtimeconfig.json
+C:\Users\Rayan\Desktop\practice systems\money convertor\bin\Debug\net6.0-windows\money convertor.dll
+C:\Users\Rayan\Desktop\practice systems\money convertor\bin\Debug\net6.0-windows\money convertor.pdb
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money_convertor.Form1.resources
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.csproj.GenerateResource.cache
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.AssemblyInfoInputs.cache
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.AssemblyInfo.cs
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.csproj.CoreCompileInputs.cache
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.dll
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\refint\money convertor.dll
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.pdb
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\money convertor.genruntimeconfig.cache
+C:\Users\Rayan\Desktop\practice systems\money convertor\obj\Debug\net6.0-windows\ref\money convertor.dll
